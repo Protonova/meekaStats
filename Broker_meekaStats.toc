@@ -1,0 +1,8 @@
+## Interface: 40100
+## Title: Broker: |cffaaaaaameeka|rStats
+## Author: Protonova of Rexxar (US)
+## Notes: LDB which displays healer stats how you want and where you want.
+## Version: r1
+## OptionalDeps: LibStub.lua, CallbackHandler-1.0.lua, LibDataBroker-1.1.lua
+
+Embeds.xml
